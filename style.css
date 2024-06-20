@@ -1,0 +1,25 @@
+body{
+    background-color: white(255, 255, 255);
+}
+#img{
+    width:350px ;
+}
+#header{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#line{
+    background-color: black;
+    margin:20px ;
+}
+#bgline{
+    background-color: gray;
+}
+#quad1{
+    width:10% ;
+    background-color: black;
+}
+#quad2{
+    width:17% ;
+    background-color: black;
+}
